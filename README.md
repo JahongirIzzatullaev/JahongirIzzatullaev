@@ -13,6 +13,7 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
