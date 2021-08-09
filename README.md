@@ -22,7 +22,8 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
 </p>
 
