@@ -4,8 +4,8 @@
 
 ### Latest Projects:
 
-- [Home demo](https://jahongirizzatullaev.github.io/digital-agency/index.html)
-
+- [Project for digital agency](https://jahongirizzatullaev.github.io/digital-agency/index.html)
+- [Project for financial advisory](https://jahongirizzatullaev.github.io/financial-advisory/)
 
 ### Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
