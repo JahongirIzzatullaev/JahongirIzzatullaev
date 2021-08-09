@@ -1,4 +1,4 @@
-[![Header](https://github.com/JahongirIzzatullaev/JahongirIzzatullaev/blob/main/assets/logo.png)
+[![Header](https://github.com/JahongirIzzatullaev/JahongirIzzatullaev/blob/main/assets/logo.png)]
 
 ## I'm a Frontend Web Developer
 
