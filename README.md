@@ -9,12 +9,11 @@
 - [Project for financial advisory](https://jahongirizzatullaev.github.io/financial-advisory/)
 
 ### Languages and Tools:
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+    <img src="https://img.icons8.com/color/48/000000/quasar.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
