@@ -32,6 +32,9 @@
 [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://t.me/jahongir_izzatullaev)
 
 ### Follow Me:
+
+[![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://t.me/jahongir_izzatullaev)
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jahongir_izzatullaev)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/jahongir_izzatullaev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jahongir-izzatullaev-012357184/)
