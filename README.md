@@ -26,12 +26,14 @@
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
     <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
+   [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://t.me/jahongir_izzatullaev)
 </p>
 
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jahongir_izzatullaev)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/jahongir_izzatullaev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/jahongir-izzatullaev-012357184/)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100013080578687)
