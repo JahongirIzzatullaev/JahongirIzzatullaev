@@ -27,9 +27,9 @@
     <img src="https://img.icons8.com/color/48/000000/postgresql.png"/>
     <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> 
     <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
-   [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://t.me/jahongir_izzatullaev)
+   
 </p>
-
+[![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://t.me/jahongir_izzatullaev)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jahongir_izzatullaev)
